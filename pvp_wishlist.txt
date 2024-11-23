@@ -4,3 +4,6 @@ description:A manual list of all of the PvP rolls I'm searching for
 // Igneous Hammer
 dimwishlist:item=1973107014&perks=3619207468,555281244
 dimwishlist:item=1973107014&perks=4090651448,1885400500,3619207468,555281244#notes:god
+
+// Scavenger's Fate
+dimwishlist:item=2913577176&perks=2579169598,1194056669
