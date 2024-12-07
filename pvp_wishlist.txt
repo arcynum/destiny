@@ -14,3 +14,7 @@ dimwishlist:item=2823644677&perks=3619207468,555281244
 
 // Chroma Rush
 dimwishlist:item=2598420927&perks=1359896290,3891536761
+
+// Gridskipper
+dimwishlist:item=3433930495&perks=2387244414,460017080
+dimwishlist:item=3433930495&perks=2579169598,460017080
