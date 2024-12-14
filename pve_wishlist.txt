@@ -89,3 +89,5 @@ dimwishlist:item=601948197&perks=1749209109,3913600130#notes:pve
 dimwishlist:item=1183116657&perks=968510818,1427256713#notes:pve
 dimwishlist:item=1183116657&perks=968510818,2594592626#notes:pve
 dimwishlist:item=1183116657&perks=1820235745,2594592626#notes:pve
+dimwishlist:item=1183116657&perks=3643424744,1427256713#notes:pve
+dimwishlist:item=1183116657&perks=3643424744,2594592626#notes:pve
