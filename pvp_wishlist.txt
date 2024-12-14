@@ -18,3 +18,15 @@ dimwishlist:item=2598420927&perks=1359896290,3891536761#notes:pvp
 // Gridskipper
 dimwishlist:item=3433930495&perks=2387244414,460017080#notes:pvp
 dimwishlist:item=3433930495&perks=2579169598,460017080#notes:pvp
+
+// Stay Frosty (Dawning 2024)
+dimwishlist:item=1123433952&perks=2579169598,3047969693#notes:pvp
+dimwishlist:item=1123433952&perks=2579169598,460017080#notes:pvp
+dimwishlist:item=1123433952&perks=2579169598,1015611457#notes:pvp
+
+// Avalanche (Dawning 2024)
+dimwishlist:item=1845978721&perks=1194056669,2610012052#notes:pvp
+
+// Glacioclasm (Dawning 2024)
+dimwishlist:item=1183116657&perks=2579169598,1194056669#notes:pvp
+dimwishlist:item=1183116657&perks=1645158859,1194056669#notes:pvp
